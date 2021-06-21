@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    font-family: Futura!important;
+    letter-spacing: 0.03em!important;
+}
+
+
+.hover {
+    cursor: pointer;
+}
+
+.hover:hover {
+    opacity: 0.7;
+}
+
+.h-35rem{
+    height: 35rem;
+}
+
+.userInfoBorder{
+    border:0.25rem solid #343a40;
+}
+
+.flowHeight{
+    height: 50%;
+}
+
+.bg-navy{
+    background-color: #3c5279;
+}
+
+.selectItem {
+    background-color: #3c5279;
+}
+
+.selectItem:hover {
+    border: 2px solid steelblue;
+    cursor: pointer;
+}
+
+@media (min-width:600px){
+    .flowHeight{
+        height: 65%;
+    }
+}
