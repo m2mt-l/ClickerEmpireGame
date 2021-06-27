@@ -5,6 +5,10 @@ Recursion Project3 ClickerEmpireGame
 This is a web application for Recursion(https://recursionist.io).<br>
 Click a burger, get money, purchase items and increase your asset!!!
 
+***DEMO:***
+
+![demo](https://raw.githubusercontent.com/wiki/m2mt-l/ClickerEmpireGame/images/ClickerEmpireGame.gif)
+
 ## Installation
 ```
 $ git clone https://github.com/m2mt-l/ClickerEmpireGame.git 
